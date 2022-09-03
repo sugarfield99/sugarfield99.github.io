@@ -2,4 +2,4 @@
 
 Code4Lib JAPANカンファレンス　2022のチュートリアル
 
-Hello, Git Pages!
+Hello, GitHub Pages!
